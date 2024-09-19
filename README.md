@@ -6,8 +6,8 @@
   <br>
   <br>
   <div style="max-width: calc(100% - 420px);">
-    <p>👯 I’m looking for Job and Internships</p>
-    <p>🤝 I’m looking for help with backend</p>
+    <p>👯 I’m looking for a Job </p>
+    <p>🤝 I’m looking for help with graphs(in dsa)</p>
     <p>🌱 I’m currently immersed in competitive programming. </p>
     <p>👨‍💻 All of my projects are available in <a href="https://github.com/AyushSharma567?tab=repositories">Repositories</a></p>
     <p>📫 Reach me at: <a href="mailto:ayush181101@gmail.com">ayush181101@gmail.com</a></p>
@@ -74,7 +74,7 @@
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="linkdedin" width="40" height="40"/> </a>](https://www.linkedin.com/in/ayush-sharma456/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AyushSharma567&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=AyushSharma567&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSharma567&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushSharma567&theme=highcontrast&hide_border=false)<br/>
 
