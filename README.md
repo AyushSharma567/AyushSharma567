@@ -8,8 +8,7 @@
   <div style="max-width: calc(100% - 420px);">
     <p>👯 I’m looking for Job and Internships</p>
     <p>🤝 I’m looking for help with backend</p>
-    <p>🌱 I’m currently learning Nextjs</p>
-    <p>💬 Ask me about <b>DSA</b> / MERN stack</p>
+    <p>🌱 I’m currently immersed in competitive programming. </p>
     <p>👨‍💻 All of my projects are available in <a href="https://github.com/AyushSharma567?tab=repositories">Repositories</a></p>
     <p>📫 Reach me at: <a href="mailto:ayush181101@gmail.com">ayush181101@gmail.com</a></p>
   </div>
