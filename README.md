@@ -72,16 +72,16 @@
 
 ## 🌐 Socials:
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="linkdedin" width="40" height="40"/> </a>](https://www.linkedin.com/in/ayush-sharma456/)
-<!--
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkashJana18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJana18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkashJana18&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AyushSharma567&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSharma567&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AyushSharma567&theme=highcontrast&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkashJana18&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AyushSharma567&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
