@@ -72,8 +72,8 @@
 </table>
 
 ## 🌐 Socials:
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="linkdedin" width="40" height="40"/> </a>](https://linkedin.com/in/akashjana)
-
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="linkdedin" width="40" height="40"/> </a>](https://www.linkedin.com/in/ayush-sharma456/)
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AkashJana18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJana18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
